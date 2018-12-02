@@ -1,6 +1,6 @@
-# utl-how-to-load-excel-sheets-with-sheet-names-over-31-characters
-How to load excel sheets with sheet names over 31 characters
-    How to load excel sheets with sheet names over 31 characters
+# utl-how-to-load-excel-sheets-with-sheet-names-with-31-characters
+How to load excel sheets with sheet names with 31 characters
+    How to load excel sheets with sheet names with 31 characters
 
     I think you need R or Python for this.
 
@@ -32,7 +32,7 @@ How to load excel sheets with sheet names over 31 characters
     2  |  SIX TESTS     H    |
        +---------------------+
 
-     [test test test test test test]  ==> note sheet name longer than 31 characters
+     [test test test test test test t]  ==> note sheet with 31 characters
 
 
     EXAMPLE OUTPUT
